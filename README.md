@@ -1,4 +1,4 @@
-# PROJECTNAME
+# Detection Lab
 
 ## Objective
 
