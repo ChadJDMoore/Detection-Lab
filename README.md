@@ -13,10 +13,10 @@ The Detection Lab project aimed to establish a controlled environment for simula
 - Development of critical thinking and problem-solving skills in cybersecurity.
 
 ### Tools Used
-
 - Splunk for log ingestion and analysis.
-- Network analysis tools (such as Wireshark) for capturing and examining network traffic.
-- Telemetry generation tools to create realistic network traffic and attack scenarios.
+- Windows 10 VM for log generation and monitoring.
+- Sysmon for detailed system activity logging.
+- Kali Linux VM for attack simulation and testing.
 
 ## Steps
 drag & drop screenshots here or use imgur and reference them using imgsrc
