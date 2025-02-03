@@ -19,10 +19,7 @@ The Detection Lab project aimed to establish a controlled environment for simula
 - Kali Linux VM for attack simulation and testing.
 
 ## Steps
-### 1.Obtain the ip address of the Kali Linux machine via the terminal
-### 2.Use nmap on the Kali Linux machine to scan/target the Windows machine
-### 3.Check and take note of what ports are open on the Windows machine after scanning
-### 4.Create basic Malware for attacking
-### 5.
-### 6.
-### 7.
+### 1. Obtain the ip address of the Kali Linux machine via the terminal
+### 2. Use Nmap to scan for open ports on the target machine (Windows 10 VM).
+### 3. Create malware with Metasploit’s msfvenom for a reverse TCP shell.
+### 4. Analyze generated telemetry using Splunk and Sysmon.
