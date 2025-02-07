@@ -98,12 +98,27 @@ This is done so the test/Windows 10 VM can download the malware
    <div>
    <img width="388" alt="image" src="https://github.com/user-attachments/assets/55f8e85d-6877-4ed7-92a7-3c21230e903d" />
    </div>
-   This is done because the configuration of configuration file, it make Splunk look into Windows Sysmon operational, take all the events from there and feed it into "index = enpoint" 
+   This is done because the configuration of the configuration file, it make Splunk look into Windows Sysmon operational, take all the events from there and feed it into "index = enpoint" 
 
-### 20. 
-### 21.
-### 22.
-### 23.
+### 20. Start querying on Splunk
+### 21. All the data from endpoint
+   <img width="388" alt="image" src="https://github.com/user-attachments/assets/8cd7a926-173d-4b9a-b6bf-3018e0247bbc" />
+
+### 22. Query the Kali Linux VM ip address
+   <img width="388" alt="image" src="https://github.com/user-attachments/assets/259a51ca-24ba-46fc-b831-d7b6d6d116b3" />
+   <div>
+   <img width="388" alt="image" src="https://github.com/user-attachments/assets/7eb343ce-a74d-4795-8091-f40fc5b236ca" />
+   </div>
+   Questions to ask:
+   <div></div>
+              1) Should this machine be attempting to connect with our 4444 port?
+   <div>
+              2) What Machine is this?
+   </div>
+              3) Who's machine does it belong to?
+   <div></div>
+
+### 23. 
 ### 24.
 ### 25.
 ### 26.
