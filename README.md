@@ -67,8 +67,14 @@ This is done so the test/Windows 10 VM can download the malware
    <img width="388" alt="image" src="https://github.com/user-attachments/assets/cf75dff6-b5ea-4152-a475-6500c53ec392" />
    </div>
 
-### 12. 
-### 13.
+### 12. Locate the Malware in File Explorer and run it
+   <img width="388" alt="image" src="https://github.com/user-attachments/assets/6a5dd6f0-fb62-462b-8cef-d6a451f40e8a" />
+
+### 13. Use the Command Prompt with administrative privileges to see an established connection with the Kali Linux VM
+   <img width="388" alt="image" src="https://github.com/user-attachments/assets/bce61766-4168-43e8-99fa-0b3864f5c2fc" />
+   <img width="388" alt="image" src="https://github.com/user-attachments/assets/4091317a-108f-42c6-90b1-7bafec393a25" />
+
+
 ### 14.
 ### 15.
 ### 16.
