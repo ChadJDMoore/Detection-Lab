@@ -94,6 +94,17 @@ This is done so the test/Windows 10 VM can download the malware
 ### 18. Restart the Splunk services
    <img width="388" alt="image" src="https://github.com/user-attachments/assets/188d2d84-48d7-4ea0-94ae-4fb5543f0b21" />
 
-### 19.
+### 19. Open Splunk and create and index called "endpoint"
+   <img width="388" alt="image" src="https://github.com/user-attachments/assets/55f8e85d-6877-4ed7-92a7-3c21230e903d" />
+
 ### 20.
+### 21.
+### 22.
+### 23.
+### 24.
+### 25.
+### 26.
+### 27.
+### 28.
+### 29.
 
