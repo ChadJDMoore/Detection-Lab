@@ -139,7 +139,7 @@ This is done so the test/Windows 10 VM can download the malware
 
 
 ## Recommendations 
-- Create detections to alert analysts, the next time a similar activity occurs 
+Create detections to alert analysts, the next time a similar activity occurs 
 
 
 
