@@ -22,7 +22,7 @@ The Detection Lab project aimed to establish a controlled environment for simula
 ### Prerequisites
 - Must have Splunk installed and properly configured on the Windows VM
 - Must have Sysmon installed and properly configured on the Windows VM
-- Must have the virtual machines properly configured before testing
+- Ensure the networking of both virtual machines are properly configured before testing
 
 ## Steps
 ### 1. Obtain the ip address of the Kali Linux machine via the terminal
