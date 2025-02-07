@@ -26,8 +26,10 @@ The Detection Lab project aimed to establish a controlled environment for simula
 
 ## Steps
 ### 1. Turn off the firewalls on the Windows VM
-   ![image](https://github.com/user-attachments/assets/e29efdec-9743-4dae-8e71-773ffcb23759)
+   <img width="388" alt="image" src="https://github.com/user-attachments/assets/e29efdec-9743-4dae-8e71-773ffcb23759" />
 
-### 2. Use Nmap to scan for open ports on the target machine (Windows 10 VM).
+### 2. Obtain the ip address of the Kali Linux VM
+   <img width="388" alt="image" src="https://github.com/user-attachments/assets/f9e090e9-9003-4063-808a-ddfc9ebc5793" />
+
 ### 3. Create malware with Metasploit’s msfvenom for a reverse TCP shell.
 ### 4. Analyze generated telemetry using Splunk and Sysmon.
