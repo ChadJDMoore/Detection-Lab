@@ -19,6 +19,11 @@ The Detection Lab project aimed to establish a controlled environment for simula
 - Kali Linux VM for attack simulation and testing.
 - VirtualBox for virtualization
 
+### Prerequisites
+- Must have Splunk installed and properly configured on the Windows VM
+- Must have Sysmon installed and properly configured on the Windows VM
+- Must have the virtual machines properly configured before testing
+
 ## Steps
 ### 1. Obtain the ip address of the Kali Linux machine via the terminal
 ### 2. Use Nmap to scan for open ports on the target machine (Windows 10 VM).
