@@ -118,10 +118,22 @@ This is done so the test/Windows 10 VM can download the malware
               3) Who's machine does it belong to?
    <div></div>
 
-### 23. 
-### 24.
-### 25.
-### 26.
+### 23. Query the Malware 
+   <img width="388" alt="image" src="https://github.com/user-attachments/assets/ea8eb752-0461-4c3c-ae24-98363d7eb986" />
+
+### 24. Further analyse the data from the Malware query, inspecting it's event codes
+   <img width="388" alt="image" src="https://github.com/user-attachments/assets/15311476-f887-409a-9aaa-026ff07b3dbf" />
+
+### 25. Click and analyse EventCode 1
+   <img width="388" alt="image" src="https://github.com/user-attachments/assets/561ed143-9a97-4207-b845-59f2dc9fc1be" />
+
+### 26. Expand the event and analyse
+   <img width="388" alt="image" src="https://github.com/user-attachments/assets/58fc0781-6a57-44f4-b459-b0f270766ed2" />
+   <div>
+   <img width="388" alt="image" src="https://github.com/user-attachments/assets/1c590baa-5321-4b89-8ee5-892ec7cc029c" />
+   </div>
+
+
 ### 27.
 ### 28.
 ### 29.
