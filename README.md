@@ -58,9 +58,16 @@ The Detection Lab project aimed to establish a controlled environment for simula
   </div>
 This is done so the test/Windows 10 VM can download the malware
 
-### 10. 
-### 11.
-### 12.
+### 10. On the Windows 10 VM, disable Defender
+   <img width="388" alt="image" src="https://github.com/user-attachments/assets/47636745-9d73-42f5-80de-e82b99636138" />
+
+### 11. Go on Web Browser and download the malware from Kali Linux VM's server
+   <img width="388" alt="image" src="https://github.com/user-attachments/assets/0c37b5f1-6bcd-4471-9f7e-94c56f92e1ec" />
+   <div>
+   <img width="388" alt="image" src="https://github.com/user-attachments/assets/cf75dff6-b5ea-4152-a475-6500c53ec392" />
+   </div>
+
+### 12. 
 ### 13.
 ### 14.
 ### 15.
