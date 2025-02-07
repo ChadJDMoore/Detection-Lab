@@ -54,7 +54,9 @@ The Detection Lab project aimed to establish a controlled environment for simula
 
 ### 9. Set up a HTTP Server on the Kali Linux VM
 - This is done so the test/Windows 10 VM can download the malware
+  <div>
   <img width="388" alt="image" src="https://github.com/user-attachments/assets/e25166ab-c7f6-4c95-92b3-b6da172943d0" />
+  </div>
 
 ### 10. 
 ### 11.
