@@ -37,3 +37,22 @@ The Detection Lab project aimed to establish a controlled environment for simula
 ### 4. Create basic malware using msfvenom
    <img width="388" alt="image" src="https://github.com/user-attachments/assets/72bee508-918b-4dce-91c2-ec375a8ad8b5" />
 
+### 5. Open up a handler to listen to the port that was configured in the malware
+   <img width="388" alt="image" src="https://github.com/user-attachments/assets/b48173b1-fcaa-408a-9ff5-2aebaa332bfe" />
+
+### 6.
+### 7.
+### 8.
+### 9.
+### 10. 
+### 11.
+### 12.
+### 13.
+### 14.
+### 15.
+### 16.
+### 17.
+### 18.
+### 19.
+### 20.
+
