@@ -21,6 +21,7 @@ The Detection Lab project aimed to establish a controlled environment for simula
 
 ### Prerequisites
 - Must have Splunk installed and properly configured on the Windows VM
+   - Ensure Splunk Add-on for Sysmon app is downloaded
 - Must have Sysmon installed and properly configured on the Windows VM
 - Ensure the networking of both virtual machines are properly configured before testing
 
