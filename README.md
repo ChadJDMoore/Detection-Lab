@@ -72,14 +72,28 @@ This is done so the test/Windows 10 VM can download the malware
 
 ### 13. Use the Command Prompt with administrative privileges to see an established connection with the Kali Linux VM
    <img width="388" alt="image" src="https://github.com/user-attachments/assets/bce61766-4168-43e8-99fa-0b3864f5c2fc" />
+   <div>
    <img width="388" alt="image" src="https://github.com/user-attachments/assets/4091317a-108f-42c6-90b1-7bafec393a25" />
+   </div>
 
+### 14. On the Kali Machine VM, verify a connection in the handler
+   <img width="388" alt="image" src="https://github.com/user-attachments/assets/bc1aaeec-74e4-4fd7-a691-bfd90729e3c1" />
 
-### 14.
-### 15.
-### 16.
-### 17.
-### 18.
+### 15. Establish a shell on the Windows 10 VM, via the handler on the Kali Linux VM
+   <img width="388" alt="image" src="https://github.com/user-attachments/assets/bba9dee7-bc0d-434e-9638-8b6f1797031d" />
+
+### 16. Generate telemetry via the established shell using commands
+   <img width="388" alt="image" src="https://github.com/user-attachments/assets/1a4b0f12-956e-41a8-b750-4392836d36d1" />
+
+### 17. Configure Splunk to ingest Sysmon logs
+   <div>
+   <img width="388" alt="image" src="https://github.com/user-attachments/assets/0244b473-e940-4886-8c9f-a8e199f7be49" />
+   </div>
+   The configuration was done prior to testing via a downloaded file
+
+### 18. Restart the Splunk services
+   <img width="388" alt="image" src="https://github.com/user-attachments/assets/188d2d84-48d7-4ea0-94ae-4fb5543f0b21" />
+
 ### 19.
 ### 20.
 
