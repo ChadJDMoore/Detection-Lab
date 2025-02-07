@@ -95,6 +95,7 @@ This is done so the test/Windows 10 VM can download the malware
    <img width="388" alt="image" src="https://github.com/user-attachments/assets/188d2d84-48d7-4ea0-94ae-4fb5543f0b21" />
 
 ### 19. Open Splunk and create and index called "endpoint"
+   <div>
    <img width="388" alt="image" src="https://github.com/user-attachments/assets/55f8e85d-6877-4ed7-92a7-3c21230e903d" />
    </div>
    This is done because the configuration of configuration file, it make Splunk look into Windows Sysmon operational, take all the events from there and feed it into "index = enpoint" 
