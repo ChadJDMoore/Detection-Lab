@@ -13,7 +13,7 @@ The Detection Lab project aimed to establish a controlled environment for simula
 - Development of critical thinking and problem-solving skills in cybersecurity.
 
 ### Tools Used
-- Splunk for log ingestion and analysis.
+- Splunk as the SIEM for log ingestion and analysis.
 - Windows 10 VM for log generation and monitoring.
 - Sysmon for detailed system activity logging.
 - Kali Linux VM for attack simulation and testing.
