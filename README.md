@@ -17,6 +17,7 @@ The Detection Lab project aimed to establish a controlled environment for simula
 - Windows 10 VM for log generation and monitoring.
 - Sysmon for detailed system activity logging.
 - Kali Linux VM for attack simulation and testing.
+- VirtualBox for virtualization
 
 ## Steps
 ### 1. Obtain the ip address of the Kali Linux machine via the terminal
