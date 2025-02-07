@@ -34,4 +34,6 @@ The Detection Lab project aimed to establish a controlled environment for simula
 ### 3. Use nmap on Kali Linux VM to target the Windows VM
    <img width="388" alt="image" src="https://github.com/user-attachments/assets/83017e8f-95b6-4a15-998f-3920bbf0cd0d" />
 
-### 4. Analyze generated telemetry using Splunk and Sysmon.
+### 4. Create basic malware using msfvenom
+   <img width="388" alt="image" src="https://github.com/user-attachments/assets/72bee508-918b-4dce-91c2-ec375a8ad8b5" />
+
