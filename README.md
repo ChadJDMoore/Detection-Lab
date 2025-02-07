@@ -42,8 +42,9 @@ The Detection Lab project aimed to establish a controlled environment for simula
 
 ### 6. Set payload option in the handler to the exact payload use for the malware
    <img width="388" alt="image" src="https://github.com/user-attachments/assets/98d34d0b-5468-4559-a91f-0dc25478fd41" />
+   <div>
    <img width="388" alt="image" src="https://github.com/user-attachments/assets/142e8a3d-75c2-4da4-8181-a4f0d079a084" />
-
+   </div>
 
 ### 7. Set LHOST to the Kali Linux VM's ip address
    <img width="388" alt="image" src="https://github.com/user-attachments/assets/3573fbdf-affa-4bc3-9883-ef1673fce096" />
