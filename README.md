@@ -138,4 +138,8 @@ This is done so the test/Windows 10 VM can download the malware
    <img width="388" alt="image" src="https://github.com/user-attachments/assets/19f3fffd-0786-4b62-aaee-bbd3bb1d7584" />
 
 
+## Recommendations 
+- Create detections to alert analysts, the next time a similar activity occurs 
+
+
 
